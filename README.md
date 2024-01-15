@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, eating, gaming, anime and sleep
 - 🌱 I’m currently learning front end libraries in FCC
 - 💞️ I’m trying to learn and fit in
+- learning C, C++, Java and python
 - 📫 How to reach me ridzzali110@gmail.com
 
 <!---
