@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤗Hello this ride React & Nextjs developer and Future AI Engineer<br>🎀I like to incorporate Clean UI in all of my websites.<br>🎴I'm starting DSA this year (wish me luck)<br>👩‍💻Im skilled in Reactjs, Nextjs, Mysql, Java, C++, C <br>🎲I love watching anime and hanging out with my friends<br>🎈reach me at ridzzali110@gmail.com
+🤗Hello this is Rida, React & Nextjs developer and Future AI Engineer<br>🎀I like to incorporate Clean UI in all of my websites.<br>🎴I'm starting DSA this year (wish me luck)<br>👩‍💻Im skilled in Reactjs, Nextjs, Mysql, Java, C++, C <br>🎲I love watching anime and hanging out with my friends<br>🎈reach me at ridzzali110@gmail.com
 
 
 ## 🌐 Socials:
