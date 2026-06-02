@@ -43,6 +43,12 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" />
 </p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ridzz&style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+VISITORS)](https://github.com/Ridzz110)
+[![GitHub followers](https://img.shields.io/github/followers/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Followers&logo=github)](https://github.com/Ridzz110?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Stars&logo=github)](https://github.com/Ridzz110)
+
+
 <h3>Socials ❀</h3>
 <p>
 <a href="https://linkedin.com/in/ridabatool110">
