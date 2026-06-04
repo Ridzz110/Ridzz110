@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&size=24&duration=4002&color=F76CDD&multiline=true&width=650&height=80&lines=Hello+I'm+rida%2C+I+like+to+build+AI+systems;%26+experimenting+with+new+ideas+%3C3)](https://git.io/typing-svg)
 
+
 <table>
   <tr>
     <td  style="border: none">
@@ -45,8 +46,10 @@
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ridzz&style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+VISITORS)](https://github.com/Ridzz110)
-[![GitHub followers](https://img.shields.io/github/followers/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Followers&logo=github)](https://github.com/Ridzz110?tab=followers)
+![Followers](https://img.shields.io/github/followers/Ridzz110?style=for-the-badge&color=F8BBD0&labelColor=F48FB1&logo=github&label=✿%20Followers)
+<!--[![GitHub followers](https://img.shields.io/github/followers/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Followers&logo=github)](https://github.com/Ridzz110?tab=followers)-->
 [![GitHub stars](https://img.shields.io/github/stars/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Stars&logo=github)](https://github.com/Ridzz110)
+
 
 
 <h3>Socials ❀</h3>
