@@ -48,6 +48,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Ridzz&style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+VISITORS)](https://github.com/Ridzz110)
 [![GitHub followers](https://img.shields.io/github/followers/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Followers&logo=github)](https://github.com/Ridzz110?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Ridzz110?style=for-the-badge&color=ffb3c6&labelColor=ff85a1&label=✿+Stars&logo=github)](https://github.com/Ridzz110)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Ridzz110)](https://git.io/streak-stats)-->
 
 
 
